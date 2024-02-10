@@ -18,7 +18,7 @@ export const metadata: Metadata = {
     siteName: "OECAPPS",
     images: [
       {
-        url: "https://chronark.com/og.png",
+        url: "https://i.imgur.com/pVBYBie.jpg",
         width: 1920,
         height: 1080,
       },
@@ -42,7 +42,7 @@ export const metadata: Metadata = {
     card: "summary_large_image",
   },
   icons: {
-    shortcut: "/favicon.png",
+    shortcut: "https://i.imgur.com/o05S7VV.png",
   },
 };
 const inter = Inter({
