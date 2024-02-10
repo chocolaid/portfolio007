@@ -38,7 +38,7 @@ export default function Home() {
           I'm building{" "}
           <Link
             target="_blank"
-            href="/wha-manager"
+            href="oecapps-wha.vercel.app"
             className="underline duration-500 hover:text-zinc-300"
           >
             Wha-manager
