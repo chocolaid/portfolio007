@@ -6,16 +6,16 @@ import { Analytics } from "./components/analytics";
 
 export const metadata: Metadata = {
   title: {
-    default: "chronark.com",
-    template: "%s | chronark.com",
+    default: "OECAPPS",
+    template: "%s | OECAPPS",
   },
-  description: "Co-founder of unkey.dev and founder of planetfall.io",
+  description: "Portfolio for Emmanuel Chibuzor Onuorah",
   openGraph: {
-    title: "chronark.com",
+    title: "OECAPPS",
     description:
-      "Co-founder of unkey.dev and founder of planetfall.io",
-    url: "https://chronark.com",
-    siteName: "chronark.com",
+      "Portfolio for Emmanuel Chibuzor Onuorah",
+    url: "oecapps.vercel.app",
+    siteName: "OECAPPS",
     images: [
       {
         url: "https://chronark.com/og.png",
@@ -38,7 +38,7 @@ export const metadata: Metadata = {
     },
   },
   twitter: {
-    title: "Chronark",
+    title: "OECAPPS",
     card: "summary_large_image",
   },
   icons: {
