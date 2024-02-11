@@ -8,7 +8,7 @@ import { Eye } from "lucide-react";
 // Manually added example project data
 const exampleProjects = [
   {
-    slug: "example-project",
+    slug: "dollarchores",
     date: "2024-02-11", // Replace with your desired date
     title: "Example Project",
     description: "This is an example project description.",
